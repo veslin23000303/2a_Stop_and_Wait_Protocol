@@ -1,4 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
+## NAME:VESLIN ANISH A
+## REGISTER NO: 212223240175
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -36,11 +39,15 @@ while True:
  print(s.recv(1024).decode())
  s.send("Acknowledgement Recived".encode())
 ```
-## OUTPUT
-CLIENT
-![Screenshot 2024-05-14 184146](https://github.com/23004742/2a_Stop_and_Wait_Protocol/assets/150319318/faf51fab-7e9e-43c9-947f-667c8645fbd6)
-SERVER
-![Screenshot 2024-05-14 184152](https://github.com/23004742/2a_Stop_and_Wait_Protocol/assets/150319318/934a620f-b5f5-4a01-a060-5e6ebe19e383)
+## OUTPUT:
+## CLIENT:
+![Screenshot 2024-05-15 095732](https://github.com/veslin23000303/2a_Stop_and_Wait_Protocol/assets/151148539/ef37ea6a-bdeb-4cbe-836f-a59ce25f84ee)
+
+
+## SERVER:
+![Screenshot 2024-05-15 095745](https://github.com/veslin23000303/2a_Stop_and_Wait_Protocol/assets/151148539/1820275b-483c-4c4f-b67e-26449915d292)
+
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
